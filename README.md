@@ -12,13 +12,15 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Documentation][toc0]
 - [Prototyping and Test][toc1]
-- [Learning][toc2]
-- [Exercice][toc3]
+- [Generator][toc2]
+- [Learning][toc3]
+- [Exercice][toc4]
 
 [toc0]: #documentation
 [toc1]: #prototyping-and-test
-[toc2]: #learning
-[toc3]: #exercice
+[toc2]: #generator
+[toc3]: #learning
+[toc4]: #exercice
 
 ## Documentation
 
