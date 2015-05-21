@@ -38,6 +38,12 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regulex](https://jex.im/regulex) - A JavaScript Regular Expression Visualizer
 - [PyRegex](http://www.pyregex.com/) - An online regex tester to check validity of regexp in the Python language regex subset
 
+## Generator
+
+- [txt2re](http://www.txt2re.com/index.php3) - A Regular Expression Generator for programming languages
+- [Regex Generator++](http://regex.inginf.units.it) - An Automatic Generation of Text Extraction Patterns from Examples
+
+
 ## Learning
 
 - [Wikipedia entry on regular expressions][d0]
