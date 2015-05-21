@@ -26,6 +26,30 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regulex](https://jex.im/regulex) - A JavaScript Regular Expression Visualizer
 - [PyRegex](http://www.pyregex.com/) - An online regex tester to check validity of regexp in the Python language regex subset
 
+## Learning
+
+ * [Wikipedia entry on regular expressions][d0]
+ * [Learn Regex The Hard Way (Online book)][d1]
+ * [Text2Re – Generate Regular expressions based on a string][d2]
+ * [Basic concept of how RegularExpression parsing works][d3]
+ * [O'Reilly – Mastering Regular Expressions (e-book)][d4]
+ * [O'Reilly – Regular Expressions Cookbook (e-book)](http://shop.oreilly.com/product/0636920023630.do)
+ * [O'Reilly – Regular Expression Pocket Reference (e-book)][d5]
+ * [A Tao Of Regular Expressions (e-book)][d6] (pdf link)
+ * [Regular-Expressions.info][d7] (informative website for learning regular expressions)
+ * [RexEgg][d8] (a regular expressions tutorial that goes deep into advanced features)
+ * [RegexOne][d9] ("learn regular expressions with simple, interactive examples")
+
+[d0]: http://en.wikipedia.org/wiki/Regular_expression 
+[d1]: http://regex.learncodethehardway.org/book/
+[d2]: http://txt2re.com/
+[d3]: http://swtch.com/~rsc/regexp/regexp1.html
+[d4]: http://shop.oreilly.com/product/9780596528126.do
+[d5]: http://shop.oreilly.com/product/9780596514273.do
+[d6]: http://www.cs.colorado.edu/~schenkc/UNIX_Regular_Expressions.pdf
+[d7]: http://www.regular-expressions.info/
+[d8]: http://www.rexegg.com/
+[d9]: http://regexone.com/
 
 # Other Awesome Lists
 
