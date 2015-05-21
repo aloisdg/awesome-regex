@@ -1,7 +1,7 @@
 # awesome-regex
 A curated collection of awesome Regex libraries, tools, frameworks and software
 
-Inspired by the `awesome-*` trend on GitHub.
+Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and the whole `awesome-*` trend on GitHub.
 
 The goal is to build a categorized community-driven collection of very well-known resources.
 
