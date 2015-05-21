@@ -32,7 +32,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Prototyping and Test
 
 - [Debuggex](https://www.debuggex.com/) - An online visual regex tester
-- [RegExr](http://regexr.com/) - A website for interactive regex prototyping with syntax highlighting
+- [RegExr](http://regexr.com/) - A website for interactive regex prototyping with syntax highlighting ([repository](https://github.com/gskinner/regexr/))
 - [Regex101](https://regex101.com/) - An online regex tester, debugger with highlighting
 - [Rubular](http://rubular.com/) - A Ruby-based regular expression editor and tester
 - [Rex V](http://www.rexv.org/) - An AJAX Regular EXpression eValuator
