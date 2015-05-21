@@ -13,9 +13,17 @@ Thanks to all [contributors](https://github.com/aloisdg/awesome-regex/graphs/con
 
 ## Documentation
 
-## Prototyping
+## Prototyping and Test
 
-
+- [Debuggex](https://www.debuggex.com/) - An online visual regex tester
+- [RegExr](http://regexr.com/) - A website for interactive regex prototyping with syntax highlighting
+- [Regex101](https://regex101.com/) - An online regex tester, debugger with highlighting
+- [Rubular](http://rubular.com/) - A Ruby-based regular expression editor and tester
+- [Rex V](http://www.rexv.org/) - An AJAX Regular EXpression eValuator
+- [RegViz](http://regviz.org/) - A tool for debugging JavaScript regular expressions in a visual way
+- [reWork](http://osteele.com/tools/rework/) - A regular expression workbench
+- [Regulex](https://jex.im/regulex) - A JavaScript Regular Expression Visualizer
+- [PyRegex](http://www.pyregex.com/) - An online regex tester to check validity of regexp in the Python language regex subset
 
 
 # Other Awesome Lists
