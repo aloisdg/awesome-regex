@@ -9,6 +9,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Regular Expression Language - Quick Reference](https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx) - MSDN documentation about Regex
 - [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) - MDN chapter about JavaScript regular expressions
+- [Perl Regular Expression Syntax](http://www.boost.org/doc/libs/1_43_0/libs/regex/doc/html/boost_regex/syntax/perl_syntax.html) - A documentation from Boost
 
 ## Prototyping and Test
 
