@@ -5,9 +5,10 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/aloisdg/awesome-regex/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-## Coding Style Guides
-
 ## Documentation
+
+- [Regular Expression Language - Quick Reference](https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx) - MSDN documentation about Regex
+- [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) - MDN chapter about JavaScript regular expressions
 
 ## Prototyping and Test
 
