@@ -8,6 +8,13 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/aloisdg/awesome-regex/graphs/contributors), you're awesome and wouldn't be possible without you! (Well for now, I am alone.)
 
+## Table Of Contents
+
+- [Documentation](#)
+- [Prototyping and Test](#)
+- [Learning](#)
+- [Exercice](#)
+
 ## Documentation
 
 - [Regular Expression Language - Quick Reference](https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx) - MSDN documentation about Regex
