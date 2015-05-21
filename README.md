@@ -10,10 +10,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Table Of Contents
 
-- [Documentation](#)
-- [Prototyping and Test](#)
-- [Learning](#)
-- [Exercice](#)
+- [Documentation][toc0]
+- [Prototyping and Test][toc1]
+- [Learning](##)
+- [Exercice](##)
+
+[toc0]: https://github.com/aloisdg/awesome-regex/edit/master/README.md#Documentation
+[toc1]: https://github.com/aloisdg/awesome-regex/edit/master/README.md#Documentation
 
 ## Documentation
 
