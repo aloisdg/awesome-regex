@@ -12,7 +12,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Regular Expression Language - Quick Reference](https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx) - MSDN documentation about Regex
 - [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) - MDN chapter about JavaScript regular expressions
-- [Perl Regular Expression Syntax](http://www.boost.org/doc/libs/1_43_0/libs/regex/doc/html/boost_regex/syntax/perl_syntax.html) - A documentation from Boost
+- [Perl Regular Expression Syntax](http://www.boost.org/doc/libs/1_43_0/libs/regex/doc/html/boost_regex/syntax/perl_syntax.html) - Boost documentation
 
 ## Prototyping and Test
 
@@ -28,28 +28,28 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Learning
 
- * [Wikipedia entry on regular expressions][d0]
- * [Learn Regex The Hard Way (Online book)][d1]
- * [Text2Re – Generate Regular expressions based on a string][d2]
- * [Basic concept of how RegularExpression parsing works][d3]
- * [O'Reilly – Mastering Regular Expressions (e-book)][d4]
- * [O'Reilly – Regular Expressions Cookbook (e-book)](http://shop.oreilly.com/product/0636920023630.do)
- * [O'Reilly – Regular Expression Pocket Reference (e-book)][d5]
- * [A Tao Of Regular Expressions (e-book)][d6] (pdf link)
- * [Regular-Expressions.info][d7] (informative website for learning regular expressions)
- * [RexEgg][d8] (a regular expressions tutorial that goes deep into advanced features)
- * [RegexOne][d9] ("learn regular expressions with simple, interactive examples")
+* [Wikipedia entry on regular expressions][d0]
+* [Learn Regex The Hard Way (Online book)][d1]
+* [Text2Re – Generate Regular expressions based on a string][d2]
+* [Basic concept of how RegularExpression parsing works][d3]
+* [A Tao Of Regular Expressions (e-book)][d6] (pdf link)
+* [Regular-Expressions.info][d7] (informative website for learning regular expressions)
+* [RexEgg][d8] (a regular expressions tutorial that goes deep into advanced features)
+* [RegexOne][d9] ("learn regular expressions with simple, interactive examples")
+* [Try Regex](http://tryregex.com/) - Try Regex is an interactive regular expressions tutorial
 
 [d0]: http://en.wikipedia.org/wiki/Regular_expression 
 [d1]: http://regex.learncodethehardway.org/book/
 [d2]: http://txt2re.com/
 [d3]: http://swtch.com/~rsc/regexp/regexp1.html
-[d4]: http://shop.oreilly.com/product/9780596528126.do
-[d5]: http://shop.oreilly.com/product/9780596514273.do
 [d6]: http://www.cs.colorado.edu/~schenkc/UNIX_Regular_Expressions.pdf
 [d7]: http://www.regular-expressions.info/
 [d8]: http://www.rexegg.com/
 [d9]: http://regexone.com/
+
+## Exercice
+
+* [Regex Tuesday - Challenges](https://github.com/callumacrae/regex-tuesday) - A list regex challenge
 
 # Other Awesome Lists
 
