@@ -12,8 +12,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Documentation][toc0]
 - [Prototyping and Test][toc1]
-- [Learning](##)
-- [Exercice](##)
+- [Learning][toc2]
+- [Exercice][toc3]
 
 [toc0]: #documentation
 [toc1]: #prototyping-and-test
