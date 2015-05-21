@@ -28,29 +28,30 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Learning
 
-* [Wikipedia entry on regular expressions][d0]
-* [Learn Regex The Hard Way (Online book)][d1]
-* [Text2Re – Generate Regular expressions based on a string][d2]
-* [Basic concept of how RegularExpression parsing works][d3]
-* [A Tao Of Regular Expressions (e-book)][d6] (pdf link)
-* [Regular-Expressions.info][d7] (informative website for learning regular expressions)
-* [RexEgg][d8] (a regular expressions tutorial that goes deep into advanced features)
-* [RegexOne][d9] ("learn regular expressions with simple, interactive examples")
-* [Try Regex](http://tryregex.com/) - Try Regex is an interactive regular expressions tutorial
+- [Wikipedia entry on regular expressions][d0]
+- [Learn Regex The Hard Way (Online book)][d1]
+- [Text2Re – Generate Regular expressions based on a string][d2]
+- [Basic concept of how RegularExpression parsing works][d3]
+- [A Tao Of Regular Expressions (e-book)][d4] (pdf link)
+- [Regular-Expressions.info][d5] - An informative website for learning regular expressions
+- [RexEgg][d6] - A regular expressions tutorial that goes deep into advanced features
+- [RegexOne][d7] - Learn regular expressions with simple, interactive examples
+- [Try Regex][d8] - Try Regex is an interactive regular expressions tutorial
 
 [d0]: http://en.wikipedia.org/wiki/Regular_expression 
 [d1]: http://regex.learncodethehardway.org/book/
 [d2]: http://txt2re.com/
 [d3]: http://swtch.com/~rsc/regexp/regexp1.html
-[d6]: http://www.cs.colorado.edu/~schenkc/UNIX_Regular_Expressions.pdf
-[d7]: http://www.regular-expressions.info/
-[d8]: http://www.rexegg.com/
-[d9]: http://regexone.com/
+[d4]: http://www.cs.colorado.edu/~schenkc/UNIX_Regular_Expressions.pdf
+[d5]: http://www.regular-expressions.info/
+[d6]: http://www.rexegg.com/
+[d7]: http://regexone.com/
+[d8]: http://tryregex.com/
 
 ## Exercice
 
 * [Regex Tuesday - Challenges](https://github.com/callumacrae/regex-tuesday) - A list regex challenge
 
-# Other Awesome Lists
+# Other awesome lists
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
