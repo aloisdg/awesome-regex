@@ -15,8 +15,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Learning](##)
 - [Exercice](##)
 
-[toc0]: https://github.com/aloisdg/awesome-regex/edit/master/README.md#Documentation
-[toc1]: https://github.com/aloisdg/awesome-regex/edit/master/README.md#Documentation
+[toc0]: #documentation
+[toc1]: #prototyping-and-test
+[toc2]: #learning
+[toc3]: #exercice
 
 ## Documentation
 
