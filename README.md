@@ -14,6 +14,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Prototyping and Test](#prototyping-and-test)
 - [Generator](#generator)
 - [Learning](#learning)
+- [Explaination](#explaination)
 - [Exercice](#exercice)
 
 ## Documentation
@@ -61,6 +62,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d6]: http://www.rexegg.com/
 [d7]: http://regexone.com/
 [d8]: http://tryregex.com/
+
+## Explaination
+
+- [Explain.pl](http://rick.measham.id.au/paste/explain.pl) - Explain Regular Expressions
 
 ## Exercice
 
