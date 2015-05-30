@@ -38,14 +38,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Generator
 
-- [txt2re](http://www.txt2re.com/index.php3) - A Regular Expression Generator for programming languages
+- [Txt2Re](http://www.txt2re.com/index.php3) - Generate Regular expressions based on a string
 - [Regex Generator++](http://regex.inginf.units.it) - An Automatic Generation of Text Extraction Patterns from Examples
 
 ## Learning
 
-- [Wikipedia entry on regular expressions][d0]
-- [Learn Regex The Hard Way (Online book)][d1]
-- [Text2Re – Generate Regular expressions based on a string][d2]
+- [Wikipedia entry on regular expressions][d1]
+- [Learn Regex The Hard Way (Online book)][d2]
 - [Basic concept of how RegularExpression parsing works][d3]
 - [A Tao Of Regular Expressions (e-book)][d4] (pdf link)
 - [Regular-Expressions.info][d5] - An informative website for learning regular expressions
@@ -53,9 +52,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [RegexOne][d7] - Learn regular expressions with simple, interactive examples
 - [Try Regex][d8] - Try Regex is an interactive regular expressions tutorial
 
-[d0]: http://en.wikipedia.org/wiki/Regular_expression 
-[d1]: http://regex.learncodethehardway.org/book/
-[d2]: http://txt2re.com/
+[d1]: http://en.wikipedia.org/wiki/Regular_expression 
+[d2]: http://regex.learncodethehardway.org/book/
 [d3]: http://swtch.com/~rsc/regexp/regexp1.html
 [d4]: http://www.cs.colorado.edu/~schenkc/UNIX_Regular_Expressions.pdf
 [d5]: http://www.regular-expressions.info/
