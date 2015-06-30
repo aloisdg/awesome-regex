@@ -6,7 +6,7 @@ A curated collection of awesome Regex libraries, tools, frameworks and software.
 
 Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [HackerNews](https://news.ycombinator.com/item?id=9581225) and [StackOverflow](http://stackoverflow.com/tags/regex/info) for the help.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/aloisdg/awesome-regex/graphs/contributors), you're awesome and wouldn't be possible without you! (Well for now, I am alone.)
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
 ## Table Of Contents
 
