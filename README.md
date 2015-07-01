@@ -51,6 +51,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [RexEgg][d6] - A regular expressions tutorial that goes deep into advanced features
 - [RegexOne][d7] - Learn regular expressions with simple, interactive examples
 - [Try Regex][d8] - Try Regex is an interactive regular expressions tutorial
+- [udemy - Beginners][d9] - A Basic Introduction To Using Regular Expressions In Programming
+- [codecademy][d10] - Use of regular expression
 
 [d1]: http://en.wikipedia.org/wiki/Regular_expression 
 [d2]: http://regex.learncodethehardway.org/book/
@@ -60,6 +62,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d6]: http://www.rexegg.com/
 [d7]: http://regexone.com/
 [d8]: http://tryregex.com/
+[d9]: https://www.udemy.com/learning-regular-expressions/
+[d10]: http://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1
 
 ## Explaination
 
@@ -68,6 +72,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Exercice
 
 * [Regex Tuesday - Challenges](https://github.com/callumacrae/regex-tuesday) - A list regex challenge
+* [Regex Cross­word](http://regexcrossword.com)
+* [RegexOne](http://regexone.com) - Learn regular expressions with simple, interactive examples.
 
 # Other awesome lists
 
