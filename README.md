@@ -16,6 +16,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Learning](#learning)
 - [Explaination](#explaination)
 - [Exercice](#exercice)
+- [Tips & Tricks](#tips--tricks)
 
 ## Documentation
 
