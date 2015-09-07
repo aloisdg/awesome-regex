@@ -73,6 +73,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [Regex Cross­word](http://regexcrossword.com) - A crossword puzzle game using regular expressions
 * [RegexOne](http://regexone.com) - Learn regular expressions with simple, interactive examples
 
+## Tips & Tricks
+
+- [Five Invaluable Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/) - Be ready to craft your own powerful, yet efficient regular expressions.
+- [The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/) - A Story about How Just a Few Characters Can Make Such a Big Difference in Performance
+
 # Other awesome lists
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list, the [awesome](https://github.com/sindresorhus/awesome) list or if you want [more lists](https://github.com/jnv/lists).
