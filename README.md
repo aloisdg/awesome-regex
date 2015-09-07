@@ -1,4 +1,10 @@
-# awesome-regex
+<!--
+  Title: Awesome Regex
+  Description: A curated list of amazingly awesome regex resources.
+  Author: aloisdg
+  -->
+
+# Awesome Regex
 
 ## Introduction
 
