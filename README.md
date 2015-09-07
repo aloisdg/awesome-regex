@@ -75,8 +75,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Tips & Tricks
 
-- [Five Invaluable Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/) - Be ready to craft your own powerful, yet efficient regular expressions.
-- [The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/) - A Story about How Just a Few Characters Can Make Such a Big Difference in Performance
+- [5 Invaluable Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/) - Craft your own powerful, yet efficient regex
+- [The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/) - How a few characters can make a difference in performance
 
 # Other awesome lists
 
