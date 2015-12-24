@@ -81,6 +81,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Tuesday - Challenges](https://github.com/callumacrae/regex-tuesday) - Challenge list about Regex
 - [Regex Cross­word](http://regexcrossword.com) - A crossword puzzle game using regular expressions
 - [RegexOne](http://regexone.com) - Learn regular expressions with simple, interactive examples
+- [Regular Expression Crossword Puzzle](http://gregable.com/2015/12/regular-expression-crossword-puzzle.html) - A crossword puzzle with a neat web interface.
 
 ## Tips & Tricks
 
