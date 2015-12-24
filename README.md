@@ -78,6 +78,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Exercice
 
+- [Redoku](http://padolsey.github.io/redoku/) - Little Regex Sudoku/Crossword thing (by @padolsey)
 - [Regex Tuesday - Challenges](https://github.com/callumacrae/regex-tuesday) - Challenge list about Regex
 - [Regex Cross­word](http://regexcrossword.com) - A crossword puzzle game using regular expressions
 - [RegexOne](http://regexone.com) - Learn regular expressions with simple, interactive examples
