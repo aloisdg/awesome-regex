@@ -33,7 +33,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Prototyping and Test
 
 - [Debuggex](https://www.debuggex.com/) - An online visual regex tester
-- [RegExr](http://regexr.com/) - A website for interactive regex prototyping with syntax highlighting ([repository](https://github.com/gskinner/regexr/))
+- [RegExr](http://regexr.com/) - A website for interactive regex prototyping with syntax highlighting (by @gskinner)
 - [Regex101](https://regex101.com/) - An online regex tester, debugger with highlighting
 - [Rubular](http://rubular.com/) - A Ruby-based regular expression editor and tester
 - [Rex V](http://www.rexv.org/) - An AJAX Regular EXpression eValuator
@@ -52,15 +52,15 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Learning
 
-- [Wikipedia entry on regular expressions][d1]
-- [Learn Regex The Hard Way (Online book)][d2]
-- [Basic concept of how RegularExpression parsing works][d3]
-- [A Tao Of Regular Expressions (e-book)][d4] (pdf link)
+- [Wikipedia][d1] - Entry on regular expressions
+- [Learn Regex The Hard Way][d2] - An in-progress book that quickly teaches you regular expressions.
+- [Regular Expression Matching Can Be Simple And Fast][d3] - Basic concept of how RegEx parsing works
+- [PDF] [A Tao Of Regular Expressions][d4] - What are Regular Expressions
 - [Regular-Expressions.info][d5] - An informative website for learning regular expressions
 - [RexEgg][d6] - A regular expressions tutorial that goes deep into advanced features
 - [Try Regex][d7] - Try Regex is an interactive regular expressions tutorial
-- [udemy - Beginners][d8] - A Basic Introduction To Using Regular Expressions In Programming
-- [codecademy][d9] - Use of regular expression
+- [Udemy][d8] - A Basic Introduction To Using Regular Expressions In Programming
+- [Codecademy][d9] - How to use of regular expression
 
 [d1]: http://en.wikipedia.org/wiki/Regular_expression 
 [d2]: http://regex.learncodethehardway.org/book/
@@ -88,7 +88,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [5 Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/) - Craft your own powerful, yet efficient regex
 - [The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/) - How a few characters can make a difference in performance
-- [The Greatest Regex Trick Ever](http://www.rexegg.com/regex-best-trick.html)
+- [The Greatest Regex Trick Ever](http://www.rexegg.com/regex-best-trick.html) - So you're doubtful at the mention of a "best regex trick"? 
 
 # Other awesome lists
 
