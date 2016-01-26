@@ -16,19 +16,14 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Table Of Contents
 
-- [Library](#library)
 - [Documentation](#documentation)
 - [Prototyping and Test](#prototyping-and-test)
 - [Generator](#generator)
 - [Learning](#learning)
+- [Library](#library)
 - [Explaination](#explaination)
 - [Exercice](#exercice)
 - [Tips & Tricks](#tips--tricks)
-
-## Library
-
-- [Go-Restructure](https://github.com/alexflint/go-restructure) - Match regular expressions into struct fields in Go (by @alexflint)
-- [VerbalExpressions](https://github.com/VerbalExpressions) - VerbalExpressions is a cross-language library that helps to construct difficult regular expressions.
 
 ## Documentation
 
@@ -77,6 +72,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d7]: http://tryregex.com/
 [d8]: https://www.udemy.com/learning-regular-expressions/
 [d9]: http://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1
+
+## Library
+
+- [Go-Restructure](https://github.com/alexflint/go-restructure) - Match regular expressions into struct fields in Go (by @alexflint) [js](https://github.com/benjamingr/js-restructure) [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
+- [VerbalExpressions](https://github.com/VerbalExpressions) - VerbalExpressions is a cross-language library that helps to construct difficult regular expressions.
 
 ## Explaination
 
