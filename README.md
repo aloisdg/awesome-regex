@@ -43,8 +43,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regulex](https://jex.im/regulex) - A JavaScript Regular Expression Visualizer
 - [PyRegex](http://www.pyregex.com/) - An online regex tester to check validity of regexp in the Python language regex subset
 - [pythex](http://pythex.org/) -  A quick way to test your Python regular expressions
-- [Regexper](http://regexper.com/) - Regular expression visualizer using railroad diagrams
+- [Regexper](http://regexper.com/) - A regex visualizer for JavaScript using railroad diagrams
 - [HiFi Regex Tester](http://www.gethifi.com/tools/regex) - Live JavaScript Regular Expression Tester
+- [Regex Storm](http://regexstorm.net/tester) - A .NET regex tester with highlighting and detailed results output
 
 ## Generator
 
