@@ -64,6 +64,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Try Regex][d7] - Try Regex is an interactive regular expressions tutorial
 - [Udemy][d8] - A Basic Introduction To Using Regular Expressions In Programming
 - [Codecademy][d9] - How to use of regular expression
+- [Regex golf][d10] - Regex golf with Peter Norvig
 
 [d1]: http://en.wikipedia.org/wiki/Regular_expression 
 [d2]: http://regex.learncodethehardway.org/book/
@@ -74,6 +75,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d7]: http://tryregex.com/
 [d8]: https://www.udemy.com/learning-regular-expressions/
 [d9]: http://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1
+[d10]: https://www.oreilly.com/learning/regex-golf-with-peter-norvig
 
 ## Library
 
