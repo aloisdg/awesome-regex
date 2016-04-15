@@ -99,6 +99,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [5 Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/) - Craft your own powerful, yet efficient regex
 - [The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/) - How a few characters can make a difference in performance
 - [The Greatest Regex Trick Ever](http://www.rexegg.com/regex-best-trick.html) - So you're doubtful at the mention of a "best regex trick"? 
+- [RegExLib](http://regexlib.com/) - Regular Expression Library (5000+ indexed expressions)
 
 # Other awesome lists
 
