@@ -24,6 +24,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Explaination](#explaination)
 - [Exercice](#exercice)
 - [Tips & Tricks](#tips--tricks)
+- [Books](#books)
 
 ## Documentation
 
@@ -100,6 +101,16 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/) - How a few characters can make a difference in performance
 - [The Greatest Regex Trick Ever](http://www.rexegg.com/regex-best-trick.html) - So you're doubtful at the mention of a "best regex trick"? 
 - [RegExLib](http://regexlib.com/) - Regular Expression Library (5000+ indexed expressions)
+
+##Books
+
+- [Beginning Regular Expressions](http://shop.oreilly.com/product/9780764574894.do) - Andrew Watt (2005)
+- [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do) - Jeffrey E.F. Friedl (2006)
+- [Regular Expression Pocket Reference](http://shop.oreilly.com/product/9780596514273.do) - Tony Stubblebine (2007)
+- [Introducing Regular Expressions](http://shop.oreilly.com/product/0636920012337.do) - Michael Fitzgerald (2012)
+- [Regular Expressions Cookbook](http://shop.oreilly.com/product/0636920023630.do) - Jan Goyvaerts & Steven Levithan (2012)
+- [Mastering Python Regular Expressions](http://shop.oreilly.com/product/9781783283156.do) - Felix Lopez & Victor Romero (2014)
+- [JavaScript Regular Expressions](http://shop.oreilly.com/product/9781783282258.do) - Loiane Groner & Gabriel Manricks (2015)
 
 # Other awesome lists
 
