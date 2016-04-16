@@ -39,7 +39,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Rubular](http://rubular.com/) - A Ruby-based regular expression editor and tester
 - [Rex V](http://www.rexv.org/) - An AJAX Regular EXpression eValuator
 - [RegViz](http://regviz.org/) - A tool for debugging JavaScript regular expressions in a visual way
-- [reWork](http://osteele.com/tools/rework/) - A regular expression workbench
 - [Regulex](https://jex.im/regulex) - A JavaScript Regular Expression Visualizer
 - [PyRegex](http://www.pyregex.com/) - An online regex tester to check validity of regexp in the Python language regex subset
 - [pythex](http://pythex.org/) -  A quick way to test your Python regular expressions
@@ -51,7 +50,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Txt2Re](http://www.txt2re.com/index.php3) - Generate Regular expressions based on a string
 - [Regex Generator++](http://regex.inginf.units.it) - An Automatic Generation of Text Extraction Patterns from Examples
-- [RegexGenerator](f a tool for generating regular expressions for text extraction) - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
+- [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
 
 ## Learning
 
@@ -69,7 +68,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d1]: http://en.wikipedia.org/wiki/Regular_expression 
 [d2]: http://regex.learncodethehardway.org/book/
 [d3]: http://swtch.com/~rsc/regexp/regexp1.html
-[d4]: http://www.cs.colorado.edu/~schenkc/UNIX_Regular_Expressions.pdf
+[d4]: http://linuxreviews.org/beginner/tao_of_regular_expressions/tao_of_regular_expressions.en.print.pdf
 [d5]: http://www.regular-expressions.info/
 [d6]: http://www.rexegg.com/
 [d7]: http://tryregex.com/
