@@ -102,7 +102,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [The Greatest Regex Trick Ever](http://www.rexegg.com/regex-best-trick.html) - So you're doubtful at the mention of a "best regex trick"? 
 - [RegExLib](http://regexlib.com/) - Regular Expression Library (5000+ indexed expressions)
 
-##Books
+## Books
 
 - [Beginning Regular Expressions](http://shop.oreilly.com/product/9780764574894.do) - Andrew Watt (2005)
 - [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do) - Jeffrey E.F. Friedl (2006)
