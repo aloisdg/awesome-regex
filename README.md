@@ -83,11 +83,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Go-Restructure](https://github.com/alexflint/go-restructure) - Match regular expressions into struct fields in Go (by @alexflint) [js](https://github.com/benjamingr/js-restructure) [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
 - [VerbalExpressions](https://github.com/VerbalExpressions) - VerbalExpressions is a cross-language library that helps to construct difficult regular expressions.
 
-## Explaination
+## Explanation
 
 - [Explain.pl](http://rick.measham.id.au/paste/explain.pl) - Explain Regular Expressions
 
-## Exercice
+## Exercise
 
 - [Redoku](http://padolsey.github.io/redoku/) - Little Regex Sudoku/Crossword thing (by @padolsey)
 - [Regex Tuesday - Challenges](https://github.com/callumacrae/regex-tuesday) - Challenge list about Regex
@@ -95,7 +95,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [RegexOne](http://regexone.com) - Learn regular expressions with simple, interactive examples
 - [Regular Expression Crossword Puzzle](http://gregable.com/2015/12/regular-expression-crossword-puzzle.html) - A crossword puzzle with a neat web interface.
 
-## Tips & Tricks
+## Articles
 
 - [5 Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/) - Craft your own powerful, yet efficient regex
 - [The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/) - How a few characters can make a difference in performance
