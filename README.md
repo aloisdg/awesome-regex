@@ -21,9 +21,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Generator](#generator)
 - [Learning](#learning)
 - [Library](#library)
-- [Explaination](#explaination)
-- [Exercice](#exercice)
-- [Tips & Tricks](#tips--tricks)
+- [Collections](#collections)
+- [Explanation](#explanation)
+- [Exercise](#exercise)
+- [Articles](#articles)
 - [Books](#books)
 
 ## Documentation
@@ -82,6 +83,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Go-Restructure](https://github.com/alexflint/go-restructure) - Match regular expressions into struct fields in Go (by @alexflint) [js](https://github.com/benjamingr/js-restructure) [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
 - [VerbalExpressions](https://github.com/VerbalExpressions) - VerbalExpressions is a cross-language library that helps to construct difficult regular expressions.
+ 
+## Collections
+
+- [RegExLib](http://regexlib.com/) - Regular Expression Library (5000+ indexed expressions)
 
 ## Explanation
 
@@ -99,8 +104,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [5 Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/) - Craft your own powerful, yet efficient regex
 - [The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/) - How a few characters can make a difference in performance
-- [The Greatest Regex Trick Ever](http://www.rexegg.com/regex-best-trick.html) - So you're doubtful at the mention of a "best regex trick"? 
-- [RegExLib](http://regexlib.com/) - Regular Expression Library (5000+ indexed expressions)
+- [The Greatest Regex Trick Ever](http://www.rexegg.com/regex-best-trick.html) - So you're doubtful at the mention of a "best regex trick"?
 
 ## Books
 
