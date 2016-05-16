@@ -47,6 +47,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regexper](http://regexper.com/) - A regex visualizer for JavaScript using railroad diagrams
 - [HiFi Regex Tester](http://www.gethifi.com/tools/regex) - Live JavaScript Regular Expression Tester
 - [Regex Storm](http://regexstorm.net/tester) - A .NET regex tester with highlighting and detailed results output
+- [regular expression generator](http://txt2re.com/) - Create regex code visually in 10+ programming languages
 
 ## Generator
 
