@@ -107,6 +107,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/) - How a few characters can make a difference in performance
 - [The Greatest Regex Trick Ever](http://www.rexegg.com/regex-best-trick.html) - So you're doubtful at the mention of a "best regex trick"?
 - [Treat regular expressions as code, not magic](http://alexwlchan.net/2016/04/regexes-are-code/) - If you don’t write them carefully, you can end up with an unmaintainable monstrosity
+- [Demystifying The Regular Expression That Checks If A Number Is Prime](https://iluxonchik.github.io/regular-expression-check-if-number-is-prime/) - How a regular expression can check if a number is prime
 
 ## Books
 
