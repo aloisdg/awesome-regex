@@ -53,6 +53,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Txt2Re](http://www.txt2re.com/index.php3) - Generate Regular expressions based on a string
 - [Regex Generator++](http://regex.inginf.units.it) - An Automatic Generation of Text Extraction Patterns from Examples
 - [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
+- [RegexMagic](http://www.regexmagic.com/) - Regular Expression Generator
 
 ## Learning
 
