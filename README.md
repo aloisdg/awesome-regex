@@ -84,6 +84,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Go-Restructure](https://github.com/alexflint/go-restructure) - Match regular expressions into struct fields in Go (by @alexflint) [js](https://github.com/benjamingr/js-restructure) [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
 - [VerbalExpressions](https://github.com/VerbalExpressions) - VerbalExpressions is a cross-language library that helps to construct difficult regular expressions.
+- [RE2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
  
 ## Collections
 
