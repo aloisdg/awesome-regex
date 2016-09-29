@@ -111,6 +111,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Books
 
+- [Patterns, Automata, and Regular Expressions](http://infolab.stanford.edu/~ullman/focs/ch10.pdf) - Al Aho and Jeff Ullman (1992) (*chapter 10 of [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)*)
 - [Beginning Regular Expressions](http://shop.oreilly.com/product/9780764574894.do) - Andrew Watt (2005)
 - [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do) - Jeffrey E.F. Friedl (2006)
 - [Regular Expression Pocket Reference](http://shop.oreilly.com/product/9780596514273.do) - Tony Stubblebine (2007)
