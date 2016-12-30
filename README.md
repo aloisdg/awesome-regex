@@ -67,6 +67,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Codecademy][d9] - How to use of regular expression
 - [Regex golf][d10] - Regex golf with Peter Norvig
 - [Python Regular Expressions][d11] - A good introduction to Python Regular Expressions from Google
+- [/Reg(exp){2}lained/: Demystifying Regular Expressions][d12] - Fluent 2012 talk reviewing and visualizing basic and intermediate Regular Expressions.
 
 [d1]: http://en.wikipedia.org/wiki/Regular_expression 
 [d2]: http://regex.learncodethehardway.org/book/
@@ -79,6 +80,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d9]: http://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1
 [d10]: https://www.oreilly.com/learning/regex-golf-with-peter-norvig
 [d11]: https://developers.google.com/edu/python/regular-expressions
+[d12]: https://www.youtube.com/watch?v=EkluES9Rvak
 
 ## Library
 
