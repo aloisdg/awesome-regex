@@ -55,6 +55,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Generator++](http://regex.inginf.units.it) - An Automatic Generation of Text Extraction Patterns from Examples
 - [regexgen](https://github.com/devongovett/regexgen) - Generates regular expressions that match a set of strings.
 - [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
+- [Gamon's numberic range generator](http://gamon.webfactional.com/regexnumericrangegenerator/) - Regex Numeric Range Generator, awesome when you need to match an integer range.
 
 ## Learning
 
