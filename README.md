@@ -89,6 +89,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Collections
 
 - [RegExLib](http://regexlib.com/) - Regular Expression Library (5000+ indexed expressions)
+- [RegexHQ](https://github.com/regexhq) - Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier
 
 ## Explanation
 
