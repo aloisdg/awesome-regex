@@ -60,7 +60,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online regex tester
 - [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html) - A secure regular expression tester built using Go
 
-
 ## Generator
 
 - [Txt2Re](http://www.txt2re.com/index.php3) - Generate Regular expressions based on a string
@@ -69,7 +68,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
 - [Gamon's numberic range generator](http://gamon.webfactional.com/regexnumericrangegenerator/) - Regex Numeric Range Generator, when you need to match an integer range.
 - [rgxg](https://rgxg.github.io) - Command line tool to generate regex
-
 
 ## Learning
 
@@ -94,7 +92,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Javascript.info - Regular expressions][d19] - Regular expressions section in The Modern JavaScript Tutorial
 - [Useful Regexes][d20]
 - [Teach Yourself Regular Expressions][d21]
-
 
 [d1]: http://en.wikipedia.org/wiki/Regular_expression
 [d2]: http://regex.learncodethehardway.org/book/
