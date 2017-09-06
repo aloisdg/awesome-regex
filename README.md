@@ -36,7 +36,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Prototyping and Test
 
-- [RegexTranslator](https://www.regextranslator.com/) - A web app to decode regex into plain English. You can edit it and translate back. 
 - [Debuggex](https://www.debuggex.com/) - An online visual regex tester
 - [RegExr](http://regexr.com/) - A website for interactive regex prototyping with syntax highlighting (by @gskinner)
 - [Regex101](https://regex101.com/) - An online regex tester, debugger with highlighting
@@ -99,6 +98,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Explanation
 
+- [RegexTranslator](https://www.regextranslator.com/) - A web app to decode regex into plain English. You can edit it and translate back
 - [Explain.pl](http://rick.measham.id.au/paste/explain.pl) - Explain Regular Expressions
 
 ## Exercise
