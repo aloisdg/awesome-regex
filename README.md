@@ -132,6 +132,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Explanation
 
+- [RegexTranslator](https://www.regextranslator.com/) - A web app to decode regex into plain English. You can edit it and translate back
 - [Explain.pl](http://rick.measham.id.au/paste/explain.pl) - Explain Regular Expressions
 
 ## Exercise
