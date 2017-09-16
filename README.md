@@ -105,7 +105,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d10]: https://www.oreilly.com/learning/regex-golf-with-peter-norvig
 [d11]: https://developers.google.com/edu/python/regular-expressions
 [d12]: https://www.youtube.com/watch?v=EkluES9Rvak
-[d13]: http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1)
+[d13]: http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1
 [d14]: https://docs.oracle.com/javase/tutorial/essential/regex/resources.html
 [d15]: http://www.greenend.org.uk/rjk/2002/06/regexp.html
 [d16]: http://perl.plover.com/Regex/
