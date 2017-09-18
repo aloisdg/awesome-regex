@@ -26,6 +26,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Exercise](#exercise)
 - [Articles](#articles)
 - [Books](#books)
+- [Benchmarks](#benchmarks)
 
 ## Documentation
 
@@ -175,6 +176,14 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Mastering Python Regular Expressions](http://shop.oreilly.com/product/9781783283156.do) - Felix Lopez & Victor Romero (2014)
 - [JavaScript Regular Expressions](http://shop.oreilly.com/product/9781783282258.do) - Loiane Groner & Gabriel Manricks (2015)
 - [Regex - the complete tutorial](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf)
+
+## Benchmarks
+
+- [Benchmark of Regex Libraries](http://lh3lh3.users.sourceforge.net/reb.shtml)
+- [Java regular expression library benchmarks – 2015](https://www.javaadvent.com/2015/12/java-regular-expression-library-benchmarks-2015.html)
+- [Languages Regex Benchmark](https://github.com/mariomka/regex-benchmark) - It's just a simple regex benchmark of different programming languages.
+- [Performance comparison of regular expression engines](http://sljit.sourceforge.net/regex_perf.html)
+- [Regex Performance](https://github.com/rust-leipzig/regex-performance) - Performance comparison of regular expression engines.
 
 ## Cheat Sheets
 
