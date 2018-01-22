@@ -5,6 +5,7 @@
   -->
 
 # Awesome Regex
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Introduction
 
