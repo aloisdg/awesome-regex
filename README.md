@@ -44,19 +44,19 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Prototyping and Test
 
-- [Debuggex](https://www.debuggex.com/) - An online visual regex tester
-- [RegExr](http://regexr.com/) - A website for interactive regex prototyping with syntax highlighting (by @gskinner)
-- [Regex101](https://regex101.com/) - An online regex tester, debugger with highlighting
-- [Rubular](http://rubular.com/) - A Ruby-based regular expression editor and tester
-- [Rex V](http://www.rexv.org/) - An AJAX Regular EXpression eValuator
-- [RegViz](http://regviz.org/) - A tool for debugging JavaScript regular expressions in a visual way
-- [Regulex](https://jex.im/regulex) - A JavaScript Regular Expression Visualizer
-- [PyRegex](http://www.pyregex.com/) - An online regex tester to check validity of regexp in the Python language regex subset
-- [pythex](http://pythex.org/) -  A quick way to test your Python regular expressions
-- [Regexper](http://regexper.com/) - A regex visualizer for JavaScript using railroad diagrams
+- [Debuggex](https://www.debuggex.com/) - Online visual regex tester
+- [RegExr](http://regexr.com/) - Website for interactive regex prototyping with syntax highlighting (by @gskinner)
+- [Regex101](https://regex101.com/) - Online regex tester, debugger with highlighting
+- [Rubular](http://rubular.com/) - Ruby-based regular expression editor and tester
+- [Rex V](http://www.rexv.org/) - AJAX Regular EXpression eValuator
+- [RegViz](http://regviz.org/) - Tool for debugging JavaScript regular expressions in a visual way
+- [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer
+- [PyRegex](http://www.pyregex.com/) - Online regex tester to check validity of regexp in the Python language regex subset
+- [pythex](http://pythex.org/) - Quick way to test your Python regular expressions
+- [Regexper](http://regexper.com/) -Regex visualizer for JavaScript using railroad diagrams
 - [HiFi Regex Tester](http://www.gethifi.com/tools/regex) - Live JavaScript Regular Expression Tester
 - [Regex Hero](http://regexhero.net/tester/) - .NET online regex tester
-- [Regex Storm](http://regexstorm.net/tester) - A .NET regex tester with highlighting and detailed results output
+- [Regex Storm](http://regexstorm.net/tester) - .NET regex tester with highlighting and detailed results output
 - [RegexPal](http://www.regexpal.com) - JavaScript + PCRE online tester
 - [RegexTester](http://www.regextester.com) - Regular Expression Tester with highlighting for Javascript and PCRE.
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online regex tester
@@ -65,7 +65,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Generator
 
 - [Txt2Re](http://www.txt2re.com/index.php3) - Generate Regular expressions based on a string
-- [Regex Generator++](http://regex.inginf.units.it) - An Automatic Generation of Text Extraction Patterns from Examples
+- [Regex Generator++](http://regex.inginf.units.it) - Automatic Generation of Text Extraction Patterns from Examples
 - [regexgen](https://github.com/devongovett/regexgen) - Generates regular expressions that match a set of strings.
 - [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
 - [Gamon's numberic range generator](http://gamon.webfactional.com/regexnumericrangegenerator/) - Regex Numeric Range Generator, when you need to match an integer range.
@@ -74,10 +74,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Learning
 
 - [Wikipedia][d1] - Entry on regular expressions
-- [Learn Regex The Hard Way][d2] - An in-progress book that quickly teaches you regular expressions.
+- [Learn Regex The Hard Way][d2] - In-progress book that quickly teaches you regular expressions.
 - [Regular Expression Matching Can Be Simple And Fast][d3] - Basic concept of how RegEx parsing works
 - [PDF] [A Tao Of Regular Expressions][d4] - What are Regular Expressions
-- [Regular-Expressions.info][d5] - An informative website for learning regular expressions
+- [Regular-Expressions.info][d5] - Informative website for learning regular expressions
 - [RexEgg][d6] - A regular expressions tutorial that goes deep into advanced features
 - [Try Regex][d7] - Try Regex is an interactive regular expressions tutorial
 - [Udemy][d8] - A Basic Introduction To Using Regular Expressions In Programming
