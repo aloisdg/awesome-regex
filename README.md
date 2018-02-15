@@ -18,13 +18,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Contents
 
 - [Documentation](#documentation)
-- [Prototyping and Test](#prototyping-and-test)
-- [Generator](#generator)
+- [Prototyping and Testing](#prototyping-and-testing)
+- [Generators](#generators)
 - [Learning](#learning)
-- [Library](#library)
+- [Libraries](#libraries)
 - [Collections](#collections)
 - [Explanation](#explanation)
-- [Exercise](#exercise)
+- [Exercises](#exercises)
 - [Articles](#articles)
 - [Books](#books)
 - [Benchmarks](#benchmarks)
@@ -42,7 +42,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [class Regex in Scala](http://www.scala-lang.org/api/2.12.1/scala/util/matching/Regex.html) - Scala Regex
 - [Python re module](https://pymotw.com/3/re/) - Regular Expressions Python module tutorial
 
-## Prototyping and Test
+## Prototyping and Testing
 
 - [Debuggex](https://www.debuggex.com/) - Online visual regex tester
 - [RegExr](http://regexr.com/) - Website for interactive regex prototyping with syntax highlighting (by @gskinner)
@@ -62,7 +62,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online regex tester
 - [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html) - A secure regular expression tester built using Go
 
-## Generator
+## Generators
 
 - [Txt2Re](http://www.txt2re.com/index.php3) - Generate Regular expressions based on a string
 - [Regex Generator++](http://regex.inginf.units.it) - Automatic Generation of Text Extraction Patterns from Examples
@@ -117,7 +117,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d20]: https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions
 [d21]: http://rads.stackoverflow.com/amzn/click/0672325667
 
-## Library
+## Libraries
 
 - [Tre](https://laurikari.net/tre/) - Free and portable approximate regex matching library
 - [Go-Restructure](https://github.com/alexflint/go-restructure) - Match regular expressions into struct fields in Go (by @alexflint) [js](https://github.com/benjamingr/js-restructure) [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
@@ -137,7 +137,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [RegexTranslator](https://www.regextranslator.com/) - A web app to decode regex into plain English. You can edit it and translate back
 - [Explain.pl](http://rick.measham.id.au/paste/explain.pl) - Explain Regular Expressions
 
-## Exercise
+## Exercises
 
 - [HackerRank Regex Challenges](https://www.hackerrank.com/domains/regex/re-introduction) - Regex challenges with varying levels of difficulty.
 - [Redoku](http://padolsey.github.io/redoku/) - Little Regex Sudoku/Crossword thing (by @padolsey)
