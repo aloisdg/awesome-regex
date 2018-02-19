@@ -197,4 +197,4 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 # Other awesome lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list, the [awesome](https://github.com/sindresorhus/awesome) list or if you want [more lists](https://github.com/jnv/lists).
+Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) and [here](https://github.com/jnv/lists).
