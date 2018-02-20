@@ -131,6 +131,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [RegexLib](http://regexlib.com/) - Regular Expression Library (5000+ indexed expressions).
 - [Regexhub](https://projects.lukehaas.me/regexhub/) - Useful Regex Patterns.
+- [RGXP.RU](https://rgxp.ru/) - Regular Expression Patterns (+testing)
 
 ## Explanation
 
