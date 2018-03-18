@@ -41,7 +41,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [class Pattern in Java](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html) - Java 7 docs.
 - [class Regex in Scala](http://www.scala-lang.org/api/2.12.1/scala/util/matching/Regex.html) - Scala Regex.
 - [Python re module](https://pymotw.com/3/re/) - Regular Expressions Python module tutorial.
-- [Regular Expressions in Perl](http://perl-begin.org/topics/regular-expressions/) - Introduction and Reference Links
+- [Regular Expressions in Perl](http://perl-begin.org/topics/regular-expressions/) - Introduction and Reference Links.
 
 ## Prototyping and Testing
 
