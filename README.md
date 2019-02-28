@@ -85,17 +85,18 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Udemy][d8] - A Basic Introduction To Using Regular Expressions In Programming.
 - [Codecademy][d9] - How to use of regular expression.
 - [Regex golf][d10] - Regex golf with Peter Norvig.
-- [Python Regular Expressions][d11] - A good introduction to Python Regular Expressions from Google.
-- [/Reg(exp){2}lained/: Demystifying Regular Expressions][d12] - Fluent 2012 talk reviewing and visualizing basic and intermediate Regular Expressions.
-- [Regular Expressions - Everything you should know][d13] - PDF Series.
-- [The Java Tutorials][d14]
-- [Regex Syntax Summary][d15]
-- [How Regexes work][d16]
-- [Learn Regular Expressions for Beginners][d17]
-- [Java Regex Tutorial][d18]
-- [Javascript.info - Regular expressions][d19] - Regular expressions section in The Modern JavaScript Tutorial
-- [Useful Regexes][d20]
-- [Teach Yourself Regular Expressions][d21]
+- [Python Regex Zero to Hero][d11] - A Quick zero-to-here Guide to regex in Python with real-world examples in mind
+- [Python Regular Expressions][d12] - A good introduction to Python Regular Expressions from Google.
+- [/Reg(exp){2}lained/: Demystifying Regular Expressions][d13] - Fluent 2012 talk reviewing and visualizing basic and intermediate Regular Expressions.
+- [Regular Expressions - Everything you should know][d14] - PDF Series.
+- [The Java Tutorials][d15]
+- [Regex Syntax Summary][d16]
+- [How Regexes work][d17]
+- [Learn Regular Expressions for Beginners][d18]
+- [Java Regex Tutorial][d19]
+- [Javascript.info - Regular expressions][d20] - Regular expressions section in The Modern JavaScript Tutorial
+- [Useful Regexes][d21]
+- [Teach Yourself Regular Expressions][d22]
 
 [d1]: http://en.wikipedia.org/wiki/Regular_expression
 [d2]: http://regex.learncodethehardway.org/book/
@@ -107,17 +108,19 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d8]: https://www.udemy.com/learning-regular-expressions/
 [d9]: http://www.codecademy.com/courses/javascript-intermediate-en-NJ7Lr/0/1
 [d10]: https://www.oreilly.com/learning/regex-golf-with-peter-norvig
-[d11]: https://developers.google.com/edu/python/regular-expressions
-[d12]: https://www.youtube.com/watch?v=EkluES9Rvak
-[d13]: http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1
-[d14]: https://docs.oracle.com/javase/tutorial/essential/regex/resources.html
-[d15]: http://www.greenend.org.uk/rjk/2002/06/regexp.html
-[d16]: http://perl.plover.com/Regex/
-[d17]: https://hackernoon.com/javascript-learn-regular-expressions-for-beginners-bb6107015d91
-[d18]: http://www.vogella.com/tutorials/JavaRegularExpressions/article.html
-[d19]: https://javascript.info/regular-expressions
-[d20]: https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions
-[d21]: http://rads.stackoverflow.com/amzn/click/0672325667
+[d11]: https://github.com/alimirferdos/python-regex-zero-to-hero
+[d12]: https://developers.google.com/edu/python/regular-expressions
+[d13]: https://www.youtube.com/watch?v=EkluES9Rvak
+[d14]: http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1
+[d15]: https://docs.oracle.com/javase/tutorial/essential/regex/resources.html
+[d16]: http://www.greenend.org.uk/rjk/2002/06/regexp.html
+[d17]: http://perl.plover.com/Regex/
+[d18]: https://hackernoon.com/javascript-learn-regular-expressions-for-beginners-bb6107015d91
+[d19]: http://www.vogella.com/tutorials/JavaRegularExpressions/article.html
+[d20]: https://javascript.info/regular-expressions
+[d21]: https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions
+[d22]: http://rads.stackoverflow.com/amzn/click/0672325667
+
 
 ## Libraries
 
