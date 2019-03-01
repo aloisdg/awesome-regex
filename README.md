@@ -121,7 +121,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 [d21]: https://atrilsolutions.zendesk.com/hc/en-us/articles/205539861-Useful-regular-expressions
 [d22]: http://rads.stackoverflow.com/amzn/click/0672325667
 
-
 ## Libraries
 
 - [Tre](https://laurikari.net/tre/) - Free and portable approximate Regex matching library.
