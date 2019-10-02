@@ -74,6 +74,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
 - [Gamon's numberic range generator](http://gamon.webfactional.com/regexnumericrangegenerator/) - Regex Numeric Range Generator, when you need to match an integer range.
 - [rgxg](https://rgxg.github.io) - Command line tool to generate Regex
+- [Strings to RegEx](https://www.wimpyprogrammer.com/strings-to-regex/) - JavaScript library and online tool to generate a regular expression that matches strings.
 
 ## Learning
 
