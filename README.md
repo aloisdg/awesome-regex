@@ -59,6 +59,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [HiFi Regex Tester](http://www.gethifi.com/tools/regex) - Live JavaScript Regular Expression Tester.
 - [Regex Hero](http://regexhero.net/tester/) - .NET online Regex tester.
 - [Regex Storm](http://regexstorm.net/tester) - .NET Regex tester with highlighting and detailed results output.
+- [RegEx to Strings](https://www.wimpyprogrammer.com/regex-to-strings/) - JavaScript library and online tool to generate strings that a regular expression would match.
 - [RegexPal](http://www.regexpal.com) - JavaScript + PCRE online tester.
 - [RegexTester](http://www.regextester.com) - Regular Expression Tester with highlighting for Javascript and PCRE.
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online Regex tester.
