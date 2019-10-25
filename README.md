@@ -75,6 +75,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Gamon's numberic range generator](http://gamon.webfactional.com/regexnumericrangegenerator/) - Regex Numeric Range Generator, when you need to match an integer range.
 - [rgxg](https://rgxg.github.io) - Command line tool to generate Regex
 - [Strings to RegEx](https://www.wimpyprogrammer.com/strings-to-regex/) - JavaScript library and online tool to generate a regular expression that matches strings.
+- [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
 
 ## Learning
 
