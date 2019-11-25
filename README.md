@@ -81,8 +81,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [RgxGen](https://github.com/curious-odd-man/RgxGen) - Generate Text values that match regex pattern.
 
-https://github.com/lukehaas/RegexHub
-
 ## Learning
 
 - [Wikipedia][d1] - Entry on regular expressions.
