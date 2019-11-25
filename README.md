@@ -77,6 +77,12 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Strings to RegEx](https://www.wimpyprogrammer.com/strings-to-regex/) - JavaScript library and online tool to generate a regular expression that matches strings.
 - [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
 
+## Text Generators Based on Regex Pattern
+
+- [RgxGen](https://github.com/curious-odd-man/RgxGen) - Generate Text values that match regex pattern.
+
+https://github.com/lukehaas/RegexHub
+
 ## Learning
 
 - [Wikipedia][d1] - Entry on regular expressions.
