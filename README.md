@@ -185,6 +185,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Mastering Python Regular Expressions](http://shop.oreilly.com/product/9781783283156.do) - Felix Lopez & Victor Romero (2014)
 - [JavaScript Regular Expressions](http://shop.oreilly.com/product/9781783282258.do) - Loiane Groner & Gabriel Manricks (2015)
 - [Regex - the complete tutorial](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf)
+- [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions) - Sundeep Agarwal (2020)
 
 ## Benchmarks
 
