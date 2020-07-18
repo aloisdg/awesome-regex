@@ -5,7 +5,9 @@
   -->
 
 # Awesome Regex
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Main workflow](https://github.com/aloisdg/awesome-regex/workflows/Main%20workflow/badge.svg)](https://github.com/aloisdg/awesome-regex/actions)
 
 ## Introduction
 
