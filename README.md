@@ -78,6 +78,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [rgxg](https://rgxg.github.io) - Command line tool to generate Regex
 - [Strings to RegEx](https://www.wimpyprogrammer.com/strings-to-regex/) - JavaScript library and online tool to generate a regular expression that matches strings.
 - [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
+- [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 
 ## Learning
 
