@@ -49,6 +49,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Debuggex](https://www.debuggex.com/) - Online visual Regex tester.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - Online visual Regex tester.
+- [Nodexr](https://www.nodexr.net) - Online node-based Regex editor.
 - [Regexr](http://regexr.com/) - Website for interactive Regex prototyping with syntax highlighting (by @gskinner).
 - [Regex101](https://regex101.com/) - Online Regex tester, debugger with highlighting.
 - [Rubular](http://rubular.com/) - Ruby-based regular expression editor and tester.
