@@ -30,6 +30,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Articles](#articles)
 - [Books](#books)
 - [Benchmarks](#benchmarks)
+- [Cheat Sheets](#cheat-sheets)
 
 ## Documentation
 
