@@ -82,6 +82,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 
+## Text Generators Based on Regex Pattern
+
+- [RgxGen](https://github.com/curious-odd-man/RgxGen) - Java library that produces random text by regular expression pattern.
+
 ## Learning
 
 - [Wikipedia][d1] - Entry on regular expressions.
