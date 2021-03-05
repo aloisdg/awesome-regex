@@ -208,6 +208,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [MIT Cheat Sheet](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
 - [Java Cheat Sheet](https://zeroturnaround.com/rebellabs/java-regular-expressions-cheat-sheet/)
 - [JavaScript Cheat Sheet](https://www.debuggex.com/cheatsheet/regex/javascript)
+- Regular expression cheat sheet on [coffee mug](https://remembertheapi.com/products/regex-cheat-sheet-black-mugs-1), [mousepad](https://remembertheapi.com/products/regex-cheat-sheet-mousepad), [spiral notebook](https://remembertheapi.com/products/regex-cheat-sheet-spiral-notebook-ruled-line)
 
 # Other awesome lists
 
