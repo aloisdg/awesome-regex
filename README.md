@@ -171,7 +171,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [The thirty minute regex tutorial](https://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Regular Expressions in 30 Minutes.
 - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 - [Regular Expressions in a post ES6 World](https://ponyfoo.com/articles/regular-expressions-post-es6)
-- [Regular expression (regex) performance: The fundamental guide](https://medium.com/@lennartkoopmann/regular-expression-regex-performance-the-fundamental-guide-3d39e6af33af)
 - [The New ‘Absent Operator’ in Ruby’s Regular Expressions](https://medium.com/rubyinside/the-new-absent-operator-in-ruby-s-regular-expressions-7c3ef6cd0b99)
 - [Optimizing regexes in Java](http://www.javaworld.com/article/2077757/core-java/optimizing-regular-expressions-in-java.html)
 - [Use Regex to Test Password Strength in JavaScript](https://dzone.com/articles/use-regex-test-password)
