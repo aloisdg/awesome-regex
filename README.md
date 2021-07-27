@@ -179,6 +179,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Most Crazy Regexes](https://stackoverflow.com/questions/800813/what-is-the-most-difficult-challenging-regular-expression-you-have-ever-written) - Stack Overflow
 - [Regex Humor](http://www.rexegg.com/regex-humor.html) - Regex jokes and cartoons.
 - [The true power of regular expressions](https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
+- [On code, early neural networks, and once discredited AI pioneers](https://whyisthisinteresting.substack.com/p/the-regular-expression-edition) - A short history of regexes
 
 ## Books
 
