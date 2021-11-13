@@ -22,6 +22,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Documentation](#documentation)
 - [Prototyping and Testing](#prototyping-and-testing)
 - [Generators](#generators)
+- [Security](#security)
 - [Learning](#learning)
 - [Libraries](#libraries)
 - [Collections](#collections)
@@ -81,6 +82,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Strings to RegEx](https://www.wimpyprogrammer.com/strings-to-regex/) - JavaScript library and online tool to generate a regular expression that matches strings.
 - [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
+
+## Security 
+
+- [SafeRegex](https://github.com/jkutner/saferegex) - A command-line tool for testing regular expressions for [ReDoS](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS) vulnerabilities.
 
 ## Learning
 
