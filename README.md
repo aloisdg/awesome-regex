@@ -198,6 +198,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [JavaScript Regular Expressions](http://shop.oreilly.com/product/9781783282258.do) - Loiane Groner & Gabriel Manricks (2015)
 - [Regex - the complete tutorial](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf)
 - [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions) - Sundeep Agarwal (2020)
+- [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/) - Sundeep Agarwal (2020)
 
 ## Benchmarks
 
