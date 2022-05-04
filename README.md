@@ -35,7 +35,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Documentation
 
-- [Regular Expression Language - Quick Reference](https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx) - MSDN documentation about Regex.
+- [Regular Expression Language - Quick Reference](<https://msdn.microsoft.com/en-us/library/az24scfc(v=vs.110).aspx>) - MSDN documentation about Regex.
 - [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) - MDN chapter about JavaScript regular expressions.
 - [Perl Regular Expression Syntax](http://www.boost.org/doc/libs/1_43_0/libs/regex/doc/html/boost_regex/syntax/perl_syntax.html) - Boost documentation.
 - [Perl 6](https://docs.perl6.org/language/regexes) - Regexes in Perl 6.
@@ -143,6 +143,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [XRegExp](http://xregexp.com) - JavaScript Regex library.
 - [RE2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [Hyperscan](https://github.com/01org/hyperscan) - High-performance multiple Regex matching library.
+- [Fogex](https://github.com/fogex-js/fogex) - A library for validate a string using regular expressions.
 
 ## Collections
 
@@ -188,7 +189,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Books
 
-- [Patterns, Automata, and Regular Expressions](http://infolab.stanford.edu/~ullman/focs/ch10.pdf) - Al Aho and Jeff Ullman (1992) (*chapter 10 of [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)*)
+- [Patterns, Automata, and Regular Expressions](http://infolab.stanford.edu/~ullman/focs/ch10.pdf) - Al Aho and Jeff Ullman (1992) (_chapter 10 of [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)_)
 - [Beginning Regular Expressions](http://shop.oreilly.com/product/9780764574894.do) - Andrew Watt (2005)
 - [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do) - Jeffrey E.F. Friedl (2006)
 - [Regular Expression Pocket Reference](http://shop.oreilly.com/product/9780596514273.do) - Tony Stubblebine (2007)
