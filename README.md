@@ -82,6 +82,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Strings to RegEx](https://www.wimpyprogrammer.com/strings-to-regex/) - JavaScript library and online tool to generate a regular expression that matches strings.
 - [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
+- [AutoRegex](https://www.autoregex.xyz/home) - English <-> Regex from an AI.
 
 ## Security
 
