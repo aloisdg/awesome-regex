@@ -73,7 +73,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Generators
 
-- [Txt2Re](http://www.txt2re.com/index.php3) - Generate Regular expressions based on a string
+- [Txt2Re](https://www.txt2re.com/index_php3.html) - Generate Regular expressions based on a string
 - [Regex Generator++](http://regex.inginf.units.it) - Automatic Generation of Text Extraction Patterns from Examples
 - [regexgen](https://github.com/devongovett/regexgen) - Generates regular expressions that match a set of strings.
 - [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
