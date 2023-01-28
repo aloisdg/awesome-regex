@@ -146,6 +146,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [XRegExp](http://xregexp.com) - JavaScript Regex library.
 - [RE2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [Hyperscan](https://github.com/01org/hyperscan) - High-performance multiple Regex matching library.
+- [Edify](https://github.com/luciferreeves/edify) - Python library which includes in-built functions for common patterns as well as a RegexBuilder class to help build regular expressions from scratch using fluent builder pattern.
 
 ## Collections
 
