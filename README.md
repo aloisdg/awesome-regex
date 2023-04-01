@@ -88,6 +88,10 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [SafeRegex](https://github.com/jkutner/saferegex) - A command-line tool for testing regular expressions for [ReDoS](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS) vulnerabilities.
 
+## Text Generators Based on Regex Pattern
+
+- [RgxGen](https://github.com/curious-odd-man/RgxGen) - Java library that produces random text by regular expression pattern.
+
 ## Learning
 
 - [Wikipedia][d1] - Entry on regular expressions.
