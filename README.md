@@ -61,6 +61,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [PyRegex](http://www.pyregex.com/) - Online Regex tester to check validity of Regex in the Python language Regex subset.
 - [pythex](http://pythex.org/) - Quick way to test your Python regular expressions.
 - [Regexper](http://regexper.com/) - Regex visualizer for JavaScript using railroad diagrams.
+- [RegExp playground](https://regexplained.com/) - Online regex tester.
 - [HiFi Regex Tester](http://www.gethifi.com/tools/regex) - Live JavaScript Regular Expression Tester.
 - [Regex Hero](http://regexhero.net/tester/) - .NET online Regex tester.
 - [Regex Storm](http://regexstorm.net/tester) - .NET Regex tester with highlighting and detailed results output.
