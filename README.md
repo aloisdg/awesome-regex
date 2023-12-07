@@ -70,7 +70,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online Regex tester.
 - [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html) - A secure regular expression tester. built using Go
 - [PHP Live Regex](https://www.phpliveregex.com) - PHP specific regular expression tester with live evaluation and code generation for all PHP's regex functions.
-- [Softwium](http://www.regextester.com](https://softwium.com/regex-explainer/) - Online regular expression visualizer.
+- [Softwium](https://softwium.com/regex-explainer/) - Online regular expression visualizer.
 
 ## Generators
 
