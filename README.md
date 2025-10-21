@@ -83,6 +83,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 - [AutoRegex](https://www.autoregex.xyz/home) - English <-> Regex from an AI.
+- [Regex Tester](https://formatjsononline.com/regex-tester) - Instantly test, debug, and validate your regular expressions (regex) online.
 
 ## Security
 
