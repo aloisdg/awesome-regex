@@ -63,6 +63,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regexper](http://regexper.com/) - Regex visualizer for JavaScript using railroad diagrams.
 - [HiFi Regex Tester](http://www.gethifi.com/tools/regex) - Live JavaScript Regular Expression Tester.
 - [Regex Hero](http://regexhero.net/tester/) - .NET online Regex tester.
+- [Regex Lab](https://ryudi84.github.io/sovereign-tools/tools/regex_lab/) - Browser-based regex tester with real-time matching and pattern highlighting.
 - [Regex Storm](http://regexstorm.net/tester) - .NET Regex tester with highlighting and detailed results output.
 - [RegEx to Strings](https://www.wimpyprogrammer.com/regex-to-strings/) - JavaScript library and online tool to generate strings that a regular expression would match.
 - [RegexPal](http://www.regexpal.com) - JavaScript + PCRE online tester.
