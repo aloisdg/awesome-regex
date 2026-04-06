@@ -9,6 +9,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Main workflow](https://github.com/aloisdg/awesome-regex/workflows/Main%20workflow/badge.svg)](https://github.com/aloisdg/awesome-regex/actions)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for automated pattern matching orchestration, multi-agent text processing, and intelligent task delegation. MIT licensed.
 ## Introduction
 
 A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
