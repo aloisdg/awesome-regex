@@ -68,6 +68,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [RegexPal](http://www.regexpal.com) - JavaScript + PCRE online tester.
 - [RegexTester](http://www.regextester.com) - Regular Expression Tester with highlighting for Javascript and PCRE.
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online Regex tester.
+- [Goosekit Regex Tester](https://goosekit.dev/regex-tester/) - Free browser-based Regex tester with live matching, capture groups and common pattern library. No signup, privacy-first.
 - [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html) - A secure regular expression tester. built using Go
 - [PHP Live Regex](https://www.phpliveregex.com) - PHP specific regular expression tester with live evaluation and code generation for all PHP's regex functions.
 
