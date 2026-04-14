@@ -49,6 +49,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Prototyping and Testing
 
+- [Anytools Regex Tester](https://anytools.io/dev/regex-tester) - Live JavaScript regex matching with capture group highlighting. Client-side, no data sent to servers.
 - [Debuggex](https://www.debuggex.com/) - Online visual Regex tester.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - Online visual Regex tester.
 - [Nodexr](https://www.nodexr.net) - Online node-based Regex editor.
