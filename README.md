@@ -49,6 +49,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Prototyping and Testing
 
+- [FastTool Regex Tester](https://fasttool.app/tools/regex-tester) - In-browser regex tester with named-group highlighting and a built-in cheat-sheet. Static site, no signup, nothing uploaded.
+
 - [Debuggex](https://www.debuggex.com/) - Online visual Regex tester.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - Online visual Regex tester.
 - [Nodexr](https://www.nodexr.net) - Online node-based Regex editor.
