@@ -156,6 +156,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Explanation
 
 - [RegexTranslator](https://www.regextranslator.com/) - A web app to decode Regex into plain English. You can edit it and translate back.
+- [RegExplain](https://genesisaiservices.github.io/regexplain/) - Paste any regex pattern and get a plain-English explanation of what it matches. No signup required, 100% client-side.
 - [Explain.pl](http://rick.measham.id.au/paste/explain.pl) - Explain Regular Expressions.
 
 ## Exercises
