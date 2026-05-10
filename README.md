@@ -222,3 +222,5 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 # Other awesome lists
 
 Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) and [here](https://github.com/jnv/lists).
+
+- [Bytepane Regex Tester](https://bytepane.com/) — Free regex tester with ReDoS detection warnings (OWASP-aligned), explanation visualization, and pattern analysis. Client-side, no data exit.
