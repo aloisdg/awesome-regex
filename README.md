@@ -70,6 +70,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online Regex tester.
 - [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html) - A secure regular expression tester. built using Go
 - [PHP Live Regex](https://www.phpliveregex.com) - PHP specific regular expression tester with live evaluation and code generation for all PHP's regex functions.
+- [CodeTray](https://codetray.dev/regex-generator/) - An AI-powered regex generator that creates patterns from plain English, with live testing and code snippets for JavaScript, Python, C#, Go, PHP, and Java
 
 ## Generators
 
@@ -83,6 +84,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 - [AutoRegex](https://www.autoregex.xyz/home) - English <-> Regex from an AI.
+- [CodeTray](https://codetray.dev/regex-generator/) - AI-powered regex generator that builds patterns from plain English descriptions with live testing
 
 ## Security
 
