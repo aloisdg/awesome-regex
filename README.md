@@ -83,6 +83,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 - [AutoRegex](https://www.autoregex.xyz/home) - English <-> Regex from an AI.
+- [Aarunya AI Regex Generator](https://aarunyaapps.com/regex-generator) - Describe a pattern in plain English and get a production-ready regex with step-by-step token explanation and live tester. Supports JavaScript, Python, Go, and PCRE.
 
 ## Security
 
