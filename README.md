@@ -49,6 +49,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Prototyping and Testing
 
+- [Coldwast Regex Tester](https://coldwa.st/regex-tester.html) - Client-side JavaScript (ECMAScript) Regex tester with live match highlighting and a capture-group table.
 - [Debuggex](https://www.debuggex.com/) - Online visual Regex tester.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - Online visual Regex tester.
 - [Nodexr](https://www.nodexr.net) - Online node-based Regex editor.
