@@ -70,6 +70,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online Regex tester.
 - [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html) - A secure regular expression tester. built using Go
 - [PHP Live Regex](https://www.phpliveregex.com) - PHP specific regular expression tester with live evaluation and code generation for all PHP's regex functions.
+- [DevKits Regex Tester](https://devkits.vip/tools/regex-tester) - Online Regex tester with named-group output, live highlighting, and companion tools for replace, visual explanation ([visualize/regex](https://devkits.vip/visualize/regex)), and a [pattern cookbook](https://devkits.vip/regex-cookbook).
 
 ## Generators
 
@@ -218,6 +219,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Java Cheat Sheet](https://zeroturnaround.com/rebellabs/java-regular-expressions-cheat-sheet/)
 - [JavaScript Cheat Sheet](https://www.debuggex.com/cheatsheet/regex/javascript)
 - [RegexLearn Cheat Sheet](https://regexlearn.com/cheatsheet)
+- [DevKits Regex Cookbook](https://devkits.vip/regex-cookbook) - 30 tested Regex patterns with matching examples in JavaScript, Python, Go, and Java.
 
 # Other awesome lists
 
