@@ -149,6 +149,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Collections
 
+- [regex-engine-divergences](https://github.com/Kristofp/regex-engine-divergences) - 539 test patterns executed on 16 real engines, with every recorded disagreement classified (MIT).
 - [RegexLib](http://regexlib.com/) - Regular Expression Library (5000+ indexed expressions).
 - [Regexhub](https://projects.lukehaas.me/regexhub/) - Useful Regex Patterns.
 - [RGXP.RU](https://rgxp.ru/) - Regular Expression Patterns (+testing)
