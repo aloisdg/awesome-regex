@@ -54,6 +54,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Nodexr](https://www.nodexr.net) - Online node-based Regex editor.
 - [Regexr](http://regexr.com/) - Website for interactive Regex prototyping with syntax highlighting (by @gskinner).
 - [Regex101](https://regex101.com/) - Online Regex tester, debugger with highlighting.
+- [RegexTester.dev](https://regextester.dev/) - Online Regex tester running real WASM builds of PCRE2, RE2, .NET, Python, Go, Java and Rust engines.
 - [Rubular](http://rubular.com/) - Ruby-based regular expression editor and tester.
 - [Rex V](http://www.rexv.org/) - AJAX Regular EXpression eValuator.
 - [RegViz](http://regviz.org/) - Tool for debugging JavaScript regular expressions in a visual way.
