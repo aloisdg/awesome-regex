@@ -86,6 +86,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Security
 
+- [redosray](https://github.com/aurelio-nakamura/redosray) - Finds ReDoS-vulnerable regexes in JavaScript, TypeScript, and Python, then proves each one offline by generating the exact input that makes it hang.
 - [SafeRegex](https://github.com/jkutner/saferegex) - A command-line tool for testing regular expressions for [ReDoS](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS) vulnerabilities.
 
 ## Learning
