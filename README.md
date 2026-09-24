@@ -83,6 +83,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Guide](https://regex.guide/playground) - Plain Text to Regex Generator.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 - [AutoRegex](https://www.autoregex.xyz/home) - English <-> Regex from an AI.
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - The reverse direction: generates strings that match a given regex pattern, as one of its test-data generation modes (alongside checksum-valid IBAN, card numbers, national IDs, etc.).
 
 ## Security
 
