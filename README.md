@@ -140,6 +140,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Tre](https://laurikari.net/tre/) - Free and portable approximate Regex matching library.
 - [Go-Restructure](https://github.com/alexflint/go-restructure) - Match regular expressions into struct fields in Go (by @alexflint). [js](https://github.com/benjamingr/js-restructure) [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
+- [human_regex](https://github.com/cmccomb/human_regex) - Build readable regular expressions through a fluent Rust API.
 - [js-regex](https://github.com/wyantb/js-regex) - Chainable API for constructing Regexes.
 - [VerbalExpressions](https://github.com/VerbalExpressions) - VerbalExpressions is a cross-language library that helps to construct difficult regular expressions.
 - [Super Expressive](https://github.com/francisrstokes/super-expressive) - Super Expressive is a JavaScript library that allows you to build regular expressions in natural language.
