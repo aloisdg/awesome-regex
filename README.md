@@ -166,6 +166,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Crossword](http://regexcrossword.com) - A crossword puzzle game using regular expressions.
 - [RegexOne](http://regexone.com) - Learn regular expressions with simple, interactive examples.
 - [Regex Exercises](https://regex.sketchengine.co.uk/) - Regexp exercises.
+- [Regex Hunter](https://regexhunter.com/) - A daily regex game: write the shortest pattern that matches every target and none of the decoys.
 - [Regular Expression Crossword Puzzle](http://gregable.com/2015/12/regular-expression-crossword-puzzle.html) - A crossword puzzle with a neat web interface.
 
 ## Articles
