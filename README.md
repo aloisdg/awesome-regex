@@ -212,6 +212,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Cheat Sheets
 
+- [DigDevBox Regex Cheat Sheet](https://digdevbox.com/regex-memo)
 - [Regular Expressions Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 - [Regex Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
 - [MIT Cheat Sheet](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
