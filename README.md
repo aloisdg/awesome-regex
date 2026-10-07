@@ -50,6 +50,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Prototyping and Testing
 
 - [Debuggex](https://www.debuggex.com/) - Online visual Regex tester.
+- [DigDevBox Regex Tester](https://digdevbox.com/regex-tester) - Online Regex tester with live match highlighting.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - Online visual Regex tester.
 - [Nodexr](https://www.nodexr.net) - Online node-based Regex editor.
 - [Regexr](http://regexr.com/) - Website for interactive Regex prototyping with syntax highlighting (by @gskinner).
