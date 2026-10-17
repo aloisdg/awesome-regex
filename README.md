@@ -65,6 +65,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Regex Hero](http://regexhero.net/tester/) - .NET online Regex tester.
 - [Regex Storm](http://regexstorm.net/tester) - .NET Regex tester with highlighting and detailed results output.
 - [RegEx to Strings](https://www.wimpyprogrammer.com/regex-to-strings/) - JavaScript library and online tool to generate strings that a regular expression would match.
+- [RegexLab](https://regextester.site/) - Free, private, browser-only regex tester built for Google Analytics 4 (RE2-aware), with GA4 pattern guides.
 - [RegexPal](http://www.regexpal.com) - JavaScript + PCRE online tester.
 - [RegexTester](http://www.regextester.com) - Regular Expression Tester with highlighting for Javascript and PCRE.
 - [Free Formatter](http://www.freeformatter.com/regex-tester.html) - Free online Regex tester.
