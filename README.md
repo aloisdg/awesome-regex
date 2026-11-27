@@ -86,6 +86,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Security
 
+- [redos-lint](https://github.com/JangYS0/redos-lint) - Zero-dependency Node.js CLI for catching catastrophic backtracking (ReDoS) patterns, with a zero-upload [browser regex visualizer](https://global-utils.com/en/regex-visualizer).
 - [SafeRegex](https://github.com/jkutner/saferegex) - A command-line tool for testing regular expressions for [ReDoS](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS) vulnerabilities.
 
 ## Learning
